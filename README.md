@@ -44,3 +44,6 @@ Slides ชุดสุดท้ายจะเป็นการ Overview Concep
 
 Enjoy Lifelong Learning 😊
 **Shivek Sachdev**
+
+## Contact
+Shivek Sachdev (ศิเวก สัจเดว) shivek@tis.co.th
